@@ -1,0 +1,15 @@
+body{
+	
+	text-align: center;
+}
+
+.calculator{
+	display: block;
+}
+#input{
+	display: block;
+    margin: 20px auto;
+}
+#button{
+	margin-top: 20px;
+}
